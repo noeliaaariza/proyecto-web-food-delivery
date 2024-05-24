@@ -1,16 +1,17 @@
 # Proyecto Web de Comida a Domicilio
 
-Este es el desarrollo frontend de una aplicación web de comida a domicilio, creada utilizando React y Vite. La aplicación permite a los usuarios navegar por diferentes categorías de alimentos, agregar productos al carrito y realizar pedidos.
+Este es el desarrollo frontend de una aplicación web de comida a domicilio, creada utilizando React y Vite. La aplicación permite a los usuarios navegar por diferentes categorías de alimentos, agregar productos al carrito y realizar pedidos. De momento está desarrollada toda la parte de front. Progresivamente iré implementando el backend.
 
 ## Descripción
 
 La aplicación está diseñada para proporcionar una experiencia de usuario fluida y atractiva. Las principales características incluyen:
 
 - Navegación por diferentes categorías de alimentos.
-- Visualización de detalles del producto.
+- Filtrado de platos según categoría.
 - Agregar y quitar productos del carrito de compras.
+- Cálculo de pedido total.
 - Realizar pedidos.
-- Gestión del estado global utilizando Context API.
+- Popup de registro y login de usuario.
 
 ## Tecnologías Utilizadas
 
@@ -25,6 +26,6 @@ Puedes ver el proyecto en funcionamiento visitando [este enlace](https://noeliaa
 
 ## Créditos y Agradecimientos
 
-Agradecimientos especiales a GreatStack por su ayuda y tutoriales.
+Agradecimientos especiales a [GreatStack](https://github.com/GreatStackDev) por su ayuda y tutoriales.
 
 ---
